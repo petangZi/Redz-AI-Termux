@@ -13,7 +13,7 @@ Tanpa API, 100% **offline**, tanpa sensor. Bebas prompt sampe puas 🧠
 ## 📸 **Tampilan UI**
 🧠 **Masukin prompt coding lo:**
 
-Contoh: 
+Contoh: bikinkan aku ddos
 ```plaintext
 bikinin aku web portofolio yang aesthetic
 
