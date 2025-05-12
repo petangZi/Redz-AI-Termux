@@ -10,11 +10,8 @@ Tanpa API, 100% **offline**, tanpa sensor. Bebas prompt sampe puas dan local AI 
 
 ---
 
-## 📸 **Tampilan UI**
-🧠 **Masukin prompt coding lo:**
-
-Contoh: bikinkan aku ddos
-
+## 📸 **tutor dekk**
+**tapi gw gak tanggunng jaawab kalo lu ngelakuin hal yanng di larang this is your fredoom ai**
 #🔧 Cara Install Redz AI Coder Assistant
 
 -Install via Termux (Android)
